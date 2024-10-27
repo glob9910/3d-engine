@@ -1,6 +1,6 @@
 # Java 3d engine
 
-Swing applications with 3d engine logic implemented from scratch to draw a cube.
+Swing application with 3d engine logic implemented from scratch to draw a cube.
 
 ## Controls
 
